@@ -1,0 +1,32 @@
+ body{
+    margin: 0;
+    background-image: url(holyAlpha.jpg);
+    background-color: hsla(0, 3%, 79%, 0.882);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+ #clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    border-radius: 5px;
+    
+    
+    
+
+   }
+ #clock{
+    font-size: 7rem;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+    color:#812206d4;
+    text-shadow: 3px 3px 5px;
+    border-radius: 10px;
+    border-style: none;
+   
+    
+ }
